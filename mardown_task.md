@@ -20,5 +20,4 @@ Because light cannot penetrate opaque walls, a Li-Fi signal is physically confin
 
 ![image](https://raw.githubusercontent.com/scar-2007/marvel-task-images/refs/heads/master/mardown-task-photo.jpg)
 
-[![vid]](https://github.com/scar-2007/marvel-task-images/blob/master/markdown-task-vid.mp4?v=VIDEO_ID)
-
+[[video]](https://youtube.com/shorts/BuC8Y34E17Y)
